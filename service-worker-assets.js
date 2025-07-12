@@ -1,12 +1,12 @@
 self.assetsManifest = {
-  "version": "CueoDCp4",
+  "version": "Ao2rqke2",
   "assets": [
     {
       "hash": "sha256-RXkO2al7pzRshkfJh5A/DZZ8abfXHTE5qaZ4Y8N5gws=",
       "url": "HRB_Panchanga.styles.css"
     },
     {
-      "hash": "sha256-jn5W/6lbD/XYjAkhbC7BXpJxRHYcWD/c/SI8pFzeTo4=",
+      "hash": "sha256-lThWeSgkw8zBQnJoOTrnGgILdLjVg8gmpIiGoRXCAw4=",
       "url": "_framework/HRB_Panchanga.wasm"
     },
     {
@@ -142,7 +142,7 @@ self.assetsManifest = {
       "url": "_framework/System.Text.RegularExpressions.wasm"
     },
     {
-      "hash": "sha256-p9QnBQMGwEZp7BuqXbtzsPJQj49BkuMddA+cd4mJy+w=",
+      "hash": "sha256-uZcVcfP6AEZuZsQCYoDPAQLFRJgXCOV8o3wjC36F378=",
       "url": "_framework/blazor.boot.json"
     },
     {

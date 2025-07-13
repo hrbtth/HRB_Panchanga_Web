@@ -1,16 +1,16 @@
 self.assetsManifest = {
-  "version": "fGVj4ACj",
+  "version": "HJJ50TwR",
   "assets": [
     {
       "hash": "sha256-jFWl5dji2P7QTh8TpucM/TFxvKFascQXB1lBoHvb5xg=",
       "url": "HRB_Panchanga_Web/HRB_Panchanga.styles.css"
     },
     {
-      "hash": "sha256-P1talERrD2X3yUV/eFNN81CbSZppOnpcyLJIhriI5vU=",
+      "hash": "sha256-jn5W/6lbD/XYjAkhbC7BXpJxRHYcWD/c/SI8pFzeTo4=",
       "url": "HRB_Panchanga_Web/_framework/HRB_Panchanga.wasm"
     },
     {
-      "hash": "sha256-SjDlKrE+o5s9ZjZ11GF9l9Cx2OtythPyXukgHx9CigQ=",
+      "hash": "sha256-5/Sa/Eig9wlH5zeLxyzlOzIFB00i7V+68Ko8p8tylp4=",
       "url": "HRB_Panchanga_Web/_framework/JaatakaClassLib.wasm"
     },
     {
@@ -142,7 +142,7 @@ self.assetsManifest = {
       "url": "HRB_Panchanga_Web/_framework/System.Text.RegularExpressions.wasm"
     },
     {
-      "hash": "sha256-nYK9WoOwo/HQwnf5ymui67ek37txsb0HwtO2IaWRVko=",
+      "hash": "sha256-p9QnBQMGwEZp7BuqXbtzsPJQj49BkuMddA+cd4mJy+w=",
       "url": "HRB_Panchanga_Web/_framework/blazor.boot.json"
     },
     {

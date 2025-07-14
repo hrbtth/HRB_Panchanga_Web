@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "HRB_Panchanga",
   "resources": {
-    "hash": "sha256-uOY6UQjWhhS1TXFlpas65pzRMHeR1O34/oAJxlGCya0=",
+    "hash": "sha256-27Ms7pp5NolYWqu4PWEUhZwx2IenX2pLQUoLs9t/QhI=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-YyxJV6dv935qHoQAmjB+2qRjHeGpm4SyWxE0T/KvsIE="
     },
@@ -18,8 +18,8 @@
     },
     "coreAssembly": {},
     "assembly": {
-      "HRB_Panchanga.wasm": "sha256-jn5W/6lbD/XYjAkhbC7BXpJxRHYcWD/c/SI8pFzeTo4=",
-      "JaatakaClassLib.wasm": "sha256-5/Sa/Eig9wlH5zeLxyzlOzIFB00i7V+68Ko8p8tylp4=",
+      "HRB_Panchanga.wasm": "sha256-RhDgLNxFfEEtnyF4S9HqrQbnIfkrUf42UKSEL+p+Ct8=",
+      "JaatakaClassLib.wasm": "sha256-Dy6QvMN/3v43018BYoP8fmug9aNTCV9rxyUhOIHjenY=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-q5Pl4roM0NU0auGxGSNhrObdR7mfe3hkMjbBjZQMg5g=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-V9n1ZIvSx+JvWh57FDI2nlv//X2nuDRzOnv84IsndFs=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-ns7dhoTaHQZomfkC7UEo9SUyvApHtOJfRZDYpQe3pis=",
